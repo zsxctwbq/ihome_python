@@ -1,0 +1,516 @@
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR virify_code.py:70 (_mysql_exceptions.OperationalError) (1130, "Host '172.16.66.238' is not allowed to connect to this MySQL server")
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR virify_code.py:86 (_mysql_exceptions.OperationalError) (1130, "Host '172.16.66.238' is not allowed to connect to this MySQL server")
+WARNING _internal.py:87  * Debugger is active!
+ERROR virify_code.py:86 (_mysql_exceptions.OperationalError) (1044, "Access denied for user 'root'@'172.16.66.238' to database 'ihome_python3'")
+ERROR passport.py:74 (_mysql_exceptions.OperationalError) (1044, "Access denied for user 'root'@'172.16.66.238' to database 'ihome_python3'")
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR profile.py:163 update() got an unexpected keyword argument 'real_name'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:341 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:341 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:341 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:387 unsupported operand type(s) for %: 'NoneType' and 'int'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:387 not all arguments converted during string formatting
+ERROR houses.py:387 not all arguments converted during string formatting
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:387 unsupported operand type(s) for %: 'NoneType' and 'int'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:391 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:391 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:391 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:391 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:341 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:473 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:474 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR houses.py:472 int() argument must be a string or a number, not 'NoneType'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+ERROR orders.py:223 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:223 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+ERROR orders.py:224 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:225 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:227 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+ERROR orders.py:288 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:290 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:291 Neither 'InstrumentedAttribute' object nor 'Comparator' object associated with Order.house has an attribute 'user_id'
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+ERROR orders.py:146 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.user_id = %s ORDER BY ih_order_info.create_time DESC'] [parameters: (2L,)]
+ERROR orders.py:138 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.house_id != ih_order_info.house_id ORDER BY ih_order_info.create_time DESC']
+INFO houses.py:342 hit house index info redis
+ERROR houses.py:410 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.house_id = %s AND ih_order_info.status = %s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC \n LIMIT %s'] [parameters: (1L, 'COMPLETE', 30)]
+ERROR houses.py:410 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.house_id = %s AND ih_order_info.status = %s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC \n LIMIT %s'] [parameters: (1L, 'COMPLETE', 30)]
+ERROR houses.py:410 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.house_id = %s AND ih_order_info.status = %s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC \n LIMIT %s'] [parameters: (2L, 'COMPLETE', 30)]
+ERROR houses.py:410 (_mysql_exceptions.OperationalError) (1054, "Unknown column 'ih_order_info.trade_no' in 'field list'") [SQL: u'SELECT ih_order_info.create_time AS ih_order_info_create_time, ih_order_info.update_time AS ih_order_info_update_time, ih_order_info.id AS ih_order_info_id, ih_order_info.user_id AS ih_order_info_user_id, ih_order_info.house_id AS ih_order_info_house_id, ih_order_info.begin_date AS ih_order_info_begin_date, ih_order_info.end_date AS ih_order_info_end_date, ih_order_info.days AS ih_order_info_days, ih_order_info.house_price AS ih_order_info_house_price, ih_order_info.amount AS ih_order_info_amount, ih_order_info.status AS ih_order_info_status, ih_order_info.comment AS ih_order_info_comment, ih_order_info.trade_no AS ih_order_info_trade_no \nFROM ih_order_info \nWHERE ih_order_info.house_id = %s AND ih_order_info.status = %s AND ih_order_info.comment IS NOT NULL ORDER BY ih_order_info.update_time DESC \n LIMIT %s'] [parameters: (6L, 'COMPLETE', 30)]
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:48] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\xd2W\xfa$\x92\xab\x9a7\xc6\x1e\xb8\xa6^\xc1\x05\x96v\xd5M\xb3#GDE9\xcfc\xcb\xe9\xf0\xa53 E\x0c\xe1\xf7vY\x10q\xc8\x92\xcas\r\x11\xcb+4c\x1e\x0cc\x94o&j^r\xea\x99\xf3\xaa\xca\x00"jj\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:48] code 400, message Bad request syntax ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03\xa0F\x04\xbdY\xb06\x06\xc6|)\x9b\xba\xc5C\x16$;\x9d\xa9\xb1\x05\xd1\xc7\x83U\xa7j\x10L\xaa\xe2\x00\x00\x1c\xda\xda\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:48] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03Nu(\x14\\\x1a\xd9\xcb\xb4U%\xe3\xf6+z\x83N\xf7X1-\xd2\xc8\x12\x7f\xe9q\xebW\x9d\xb1\xc5 \xf7\x85\xdb\x91\xdb{\x0f\xc6RW\xe1M\xa8`\x02"\xb2\x7fG\xc2\x8a\r\x86\x12\x12;\r\x17A\x052B\x00"\xda\xda\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:48] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03,E\xc2k\x17\xaf.\xeb9\x07ZF3Ym\xbb\xaa\xf8\x8eD\xf8L\x8b\x8d\xd5\xcd\xb8\\VL\xa3\x7f')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:58] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03]r\xed\xa1\xda\xd0\xb2\xc4\x92c\xe4\xc3\xce\xcb\x01\xcf\x0b\xe6\x9e\x13\xb5\xdb\x80\xda\xb7\xd8I\xc9\xb7s\x12\x02 \xdcm\xc1\xfe\x95$SL"\xce\x0cz\xac\x9dDJ\xa4"\x19\x88p\x03S\xfbO\xb4,\x858\xf5v\x0e\x00"\xca\xca\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:07:58] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\x9e\xbe`\xb6\xf5\xfc\xe2;,g\x91\x16\xedm\xe0URc\xb7\xc7tK$g\xafg\xca\x0b\xa0\xcdC\x00 \xaf \xae\xa2P\xaedi#\xd0N\xf4>4\x84\xfd\xeefh}\xec$\xef\xd2*\xf9\xce\x18Sl\x08W\x00"\x1a\x1a\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:09] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\xaeR-\t\x81\xccm\xe8\xfc\xe5\x0ce\x17\x1bQ\xb4\xdf4\xee\xa5^\x7f6\xf1\xc1\xa8I\xb6)\xdf?Z \xb6\x88P\x05\xe2\x02\xb0u/K\xbf2m\xe6\x03\xa9+\x0b\xba#kD(Y\xd5u\xc6%hf')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:09] code 400, message Bad request syntax ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03\xd4\xfd\xb6\x81\x8a@\xf3\xb7I3\xf0\xbc\x83|\x98Q\x19\xed|G\xe1\xf2\x8eft\xa2n`\x95\x93)\xf8\x00\x00\x1c\xea\xea\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:09] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03$\xe9\x02c\x9ef7\x8d\xaf\xeb\xa1\xde\xb1~\x89\x1d\x13\xb7\x9d\xdc\xcf7\xccv&F\x11\x7f\xe5\xce\xf5:')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:09] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x039\xd7\xfd\x00LC\xb97\xe5}\xb7\x9aR6\x1ax\x9f\xaaw\xf7\x0e\x03\xeeE2\xc5\xfc\xbf\x1ct\xbc\x17')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:20] code 400, message Bad request version ('\x91\x82\xd0\xa2O\xa3\xcfu\xf3J\xca\xd3\xe4D\xa7\xa6\xc0\x07\x81\x99\xce,\xcf/p\x00"\xba\xba\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:20] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\x9fO\xac\x97\xfb\x1d\t^H\x88k\xe2\x05\xef\t\x97\x1c\x1d\xd0@h\xb5\xc9\xf9\xbf_\xc6\x0eF\xae\xd1\x8f \xf0\xb5#\x00\xf21iH\xf6\xcf`\x916y\xb7\xa3\x1d\xdf\x06\xbe\xcf\xf4\xbd\x84Fe\'\xc9\xcc[\xd0C\x00"jj\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03\xff>\xebp\xca\xc1,\xa4\xdc\x94o|')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:33] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03mm\x8e\x16\xa3\x97\xd4\x02\r}\x8c\x88\xefZ\xe3I\xces=?v\r\x98\xe8\x99\x88\xac\x9as1X\xc4 N\xd1\xd1#A\x90\xd9I\xd6\xeb\xfb\xc3n\xd1`')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:33] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03!\x8a\xdf\x8f\x9ca>\xf9n\xab\xde\x97i<&\x96\xf8\xb0\xd5?Yc\x06%\xa5l\xf0\x94\xbf\t\x0e0 \x03\x92\xd1\t\xc3\x0e\x8do.}Ez\x16\x93\xe4f\xb3)\x17G\x8e\x1d\xba\xa9i\xd7\xb5g\xd2\xaf\x9d\xd6\x00"zz\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:08:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03=')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:09:19] code 400, message Bad request version ('\xb8\xfa\x837}\x19\xbcw\xa2\x03\xed^\xe8\x9ahG\xb6\xc4@?w\xa8\x8f\xb2\xcd\x96T\xb9=2*\xfe\x00"\x1a\x1a\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:09:19] code 400, message Bad request version ('\xf4\xef\xef\xa1>\xb0\xe16\xc1\xedr\xfc(\x10,\xd8.]\x1a\xcf\xab\xabh\xe4oI\x85\xf8\xe0\x85p^\x00"\xba\xba\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:09:19] code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x032\x85\x0c@Zq\x05\xf8O\r\x91\xb4\x14f\x0e\xcc\xc7\xabX\xc6\xcdh(\xa5\xf0\xf2\xc4\x96=\xe7\xc0\xc5 \xcd\\\xa9\xfd\x96,\xd9\x14\x1a/{\xa6\xa1\x8c~\xd2\x8d\x8f\xf4A\xbe\xa1\xe8+\xf0\r\xff\x8e\rY\xfd\xa6\x00"\x9a\x9a\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+WARNING _internal.py:87  * Debugger is active!
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:09:26] code 400, message Bad request syntax ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03\\\x8b\xed\x7f\xc5\xa0\xdeB\xcdZ\x8b/\xc1\x88%\xc1\xcb\x17\xbd6\x8a\x10\xba\xc6\xd4\x91xO,\x10\xb8\xd5\x00\x00\x1cZZ\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+WARNING _internal.py:87  * Debugger is active!
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:02] code 400, message Bad request version ('%4\x04\x10<\xca\xa0\xa1iY\x84ver\x91y\x822\xd8uq!\x0f\x08@\xbco-5rw\x95\x00"\xca\xca\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:02] code 400, message Bad request version ('m\xc9c(\xf0\x1b\x1a}\x87F\x97\xb5-p\x00"\xea\xea\x13\x01\x13\x02\x13\x03\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:02] code 400, message Bad request syntax ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03G\xa3\xb6\xd4\x90\x06\x08=g\x1a`<{\x91\x89~\xf7L\x1fS\xd7\xed\xb3\x8a&v\xf4\x7f\xd4[\x1a\xdb\x00\x00\x1c\xaa\xaa\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:03] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\x82|\x82;\xb2)\xea\xab{\x8f\xb3\xc7\x05h\xac\xed\xe2\xfb\xcb\xcb\xe76\x8d@\xb7\xa4R\x8a?F\xd6n')
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:03] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01\xfc\x03\x03\xe3'\xc7\xe1\x08\xcf|\xc5#\xb0j\x1d\xb7\xcf\xd1\xc8~\x8e\xaa}1\xf89\xc3\xc7\x1f\x1c\xb0<\xac\xc3b")
+ERROR _internal.py:87 172.16.66.1 - - [31/May/2019 15:10:03] code 400, message Bad request syntax ('\x16\x03\x01\x00\xb1\x01\x00\x00\xad\x03\x03}2\x01m\x820\x13E\xa3\x15w\xe6RE\xb5\xd1[\xd9\xbcE\x1d\xce\xd7+\x01\x9d\xde\xd3\xb9\xbd\x85\xe7\x00\x00\x1c::\xc0+\xc0/\xc0,\xc00\xcc\xa9\xcc\xa8\xc0\x13\xc0\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+172.16.66.238 - - [31/May/2019:16:28:00 +0800] "GET / HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:28:00 +0800] "GET /favicon.ico HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:28:16 +0800] "GET / HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:28:16 +0800] "GET /favicon.ico HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:28:34 +0800] "GET / HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:28:34 +0800] "GET /favicon.ico HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:51:51 +0800] "GET / HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:51:52 +0800] "GET /favicon.ico HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:57:50 +0800] "GET / HTTP/1.0" 500 0 "-" "-"
+172.16.66.238 - - [31/May/2019:16:57:50 +0800] "GET /favicon.ico HTTP/1.0" 500 0 "-" "-"
+172.16.66.1 - - [31/May/2019:17:02:50 +0800] "GET / HTTP/1.1" 500 0 "-" "-"
+172.16.66.1 - - [31/May/2019:17:02:54 +0800] "GET / HTTP/1.1" 500 0 "-" "-"
+172.16.66.1 - - [31/May/2019:17:03:16 +0800] "GET /login.html HTTP/1.1" 500 0 "-" "-"
+172.16.66.1 - - [31/May/2019:17:03:51 +0800] "GET /login.html HTTP/1.1" 500 0 "-" "-"
+172.16.66.1 - - [31/May/2019:17:03:51 +0800] "GET /favicon.ico HTTP/1.1" 500 0 "-" "-"
+WARNING _internal.py:87  * Debugger is active!
+WARNING _internal.py:87  * Debugger is active!
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:342 hit house index info redis
+INFO houses.py:392 hit house detail info redis
+INFO houses.py:392 hit house detail info redis
